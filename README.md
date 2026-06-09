@@ -7,7 +7,7 @@ Proyek ini mengimplementasikan **deteksi pejalan kaki** secara otomatis mengguna
 ## 📸 Demo
 
 ### Input Gambar
-![Input Image](img.png)
+![Input Image](hasil.png)
 
 > Pejalan kaki terdeteksi dan ditandai dengan kotak merah pada gambar/video keluaran.
 
